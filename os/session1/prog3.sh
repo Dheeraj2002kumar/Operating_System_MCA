@@ -1,3 +1,4 @@
+#!/bin/bash
 day=""
 
 echo Enter a day

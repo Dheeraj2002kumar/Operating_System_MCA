@@ -1,3 +1,4 @@
+#!/bin/bash
 MyFirstLetters=ABC
 num_1=46
 num_2=22

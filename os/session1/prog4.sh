@@ -1,3 +1,4 @@
+#!/bin/bash
 # initializing two variables
 
 a=10
