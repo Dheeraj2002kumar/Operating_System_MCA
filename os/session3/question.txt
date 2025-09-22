@@ -1,0 +1,4 @@
+1. write a shell script to make variable to read only also how to unset or delete a variable.
+2. write a shell script to create a array and store in array
+3. write a shell script to convert km to cm and km to m 
+4. write a shell script to generate a multiplication table
