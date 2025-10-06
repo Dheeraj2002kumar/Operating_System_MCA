@@ -1,0 +1,6 @@
+1. write a bash script to create factorial
+
+
+Module 2
+1. What are the premitive and non-premitive processes.
+2. Explain with the help of example how sortest job first algorithm is better then first come first server algorithm.

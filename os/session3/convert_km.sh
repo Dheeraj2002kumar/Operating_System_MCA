@@ -1,13 +1,14 @@
 #!/bin/bash
+# 3. write a shell script to convert km to cm and km to m
+
+
 
 # Read input from user
 read -p "Enter distance in kilometers: " km
 
-# Convert
-meters=$(echo "$km * 1000" | bc)
-centimeters=$(echo "$km * 100000" | bc)
 
-# Output
-echo "$km kilometers is equal to:"
-echo "$meters meters"
-echo "$centimeters centimeters"
+meters=$((km * 1000))
+centimeters=$((km * 100000))
+
+echo "$km kilometers is equal to $meters meters"
+echo "$km kilometers is equal to $centimeters centimeters"

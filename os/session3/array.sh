@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+# 2. write a shell script to create a array and store in array
+ 
 # Declare an array
 fruits=("Apple" "Banana" "Cherry" "Date")
 

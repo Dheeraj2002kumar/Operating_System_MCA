@@ -1,0 +1,19 @@
+Loops
+1. while statement
+2. for statement
+3. until statement
+
+To alter the flow for loop statement, two commands are used they are,
+
+1. break
+2. continue
+
+
+
+
+Question
+1. write a program to iterate a number using loop and break statement.
+2. write a program to display the fibonachii series.  
+3. write a program to display a number < 10 using until statement.
+4. write a program to display sum of digits.
+5. write a program to display multiplication table.
