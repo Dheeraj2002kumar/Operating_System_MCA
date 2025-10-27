@@ -10,3 +10,12 @@ do
   factorial=$((factorial * i))
 done    
 echo "Factorial of $number is $factorial"
+
+
+# hp@DESKTOP-8J6UCVM MINGW64 ~/Desktop/MCA/Semester-1/Operating_System_MCA/os/session5 (main)
+# $ bash factorial.sh 
+# Enter a number:
+# 7
+# Factorial of 7 is 5040
+
+# hp@DESKTOP-8J6UCVM MINGW64 ~/Desktop/MCA/Semester-1/Operating_System_MCA/os/session5 (main)
